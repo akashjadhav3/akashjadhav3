@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <!--
-**akashjadhav3/akashjadhav3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
@@ -22,4 +19,5 @@ class FullStackDeveloper:
 
 me = FullStackDeveloper()
 me.say_hi()
+-->
 
