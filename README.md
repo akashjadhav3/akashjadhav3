@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashjadhav3" alt="akashjadhav3" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AI**
 
-- 💬 Ask me about **Python, Django**
+- 💬 Ask me about **Python, Django, AWS**
 
 - 📫 How to reach me **akashgjadhav1994@gmail.com**
 
